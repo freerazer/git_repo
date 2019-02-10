@@ -1,0 +1,24 @@
+2019/02/09 17:50:00 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:50:01 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:50:02 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:50:03 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:50:05 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:50:08 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:50:12 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:50:19 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:01 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:02 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:04 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:05 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:07 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:09 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:13 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 17:52:21 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2019/02/09 18:06:12 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14
+2019/02/09 18:06:13 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14
+2019/02/09 18:06:14 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14
+2019/02/09 18:06:15 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14
+2019/02/09 18:06:17 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14
+2019/02/09 18:06:20 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14
+2019/02/09 18:06:24 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14
+2019/02/09 18:06:31 [emerg] 1#1: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:14

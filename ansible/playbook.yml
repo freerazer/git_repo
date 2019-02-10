@@ -1,0 +1,11 @@
+---
+- hosts: all
+  tasks:
+  - name: setup alias
+    shell: alias ls='ls -lh --color=auto'
+
+  - name: copy directory
+    copy:
+      src: /home/maxb/nginx
+      dest: /home/maxb/nginx_new
+
